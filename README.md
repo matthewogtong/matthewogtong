@@ -10,13 +10,13 @@ My skills were first developed during my time at consulting firm Rave, where I g
 
 Currently, I enjoy contributing to open source documentation on [Codecademy Docs](https://github.com/Codecademy/docs), and I am constantly motivated to further develop my skills and knowledge in the iOS development field.
 
-- 🌱 I’m currently learning **Firebase and Advanced App Architectures**
+- 🌱 I’m currently learning: **Firebase and Advanced App Architectures**
 
-- 💬 Ask me about **iOS development, SwiftUI**
+- 💬 Ask me about: **iOS development, SwiftUI**
 
-- 📫 How to reach me **ogtongm@gmail.com**
+- 📫 How to reach me: **ogtongm@gmail.com**
 
-- ⚡ Fun fact **I enjoy bouldering and table tennis**
+- ⚡ Fun fact: **I enjoy bouldering and table tennis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
