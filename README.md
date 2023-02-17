@@ -2,7 +2,7 @@
 
 <br />
 
-My name is Matt, and I am an iOS Developer based in Philadelphia with a background in IT. 
+I am an iOS Developer based in Philadelphia with a background in IT. 
 
 About two and a half years ago, I made the decision to switch career paths and enrolled in Flatiron's Software Engineering Bootcamp. Since graduating, I have eagerly applied my newfound knowledge towards pursuing mobile development, where I quickly developed a passion for building and implementing new features in iOS.
 
