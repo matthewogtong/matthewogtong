@@ -4,11 +4,14 @@
 
 I am an iOS Developer based in Philadelphia with a background in IT. 
 
-About two and a half years ago, I made the decision to switch career paths and enrolled in Flatiron's Software Engineering Bootcamp. Since graduating, I have eagerly applied my newfound knowledge towards pursuing mobile development, where I quickly developed a passion for building and implementing new features in iOS.
+About two and a half years ago, I made the decision to switch career paths and enrolled in Flatiron's Software Engineering Bootcamp. Since graduating, I have eagerly applied my newfound knowledge towards pursuing mobile development, where I quickly developed a passion for building in iOS.
 
-My skills were first developed during my time at consulting firm called Rave, where I gained valuable experience working on in-house projects and developing solutions for clients. I also recently worked on an agile scrum team during my contract role with TIAA, which has helped me strengthen my ability to collaborate and communicate effectively with team members.
+My first position as a developer was at Rave, an IT consulting company where I sharpened my skills working on both in-house projects and client-focused solutions. There was my start to gaining in depth knowledge on mobile development. 
+I then was offered a contract role by TIAA as an iOS Developer for their mobile application team.
+My time spent on their agile scrum team for the last year has been an invaluable experience. During my time there we delivered a new feature that spanned the development life cycle; i.e., project initiation, design, development, testing, and deployment. 
 
-Currently, I enjoy contributing to open source documentation on [Codecademy Docs](https://github.com/Codecademy/docs), and I am constantly motivated to further develop my skills and knowledge in the iOS development field.
+Currently, I have been contributing to the open source documentation on [Codecademy Docs](https://github.com/Codecademy/docs) and working on side projects to expand my portfolio. I am eager to take on new challenges and opportunities.
+
 
 - 🌱 I’m currently learning: **Firebase and Advanced App Architectures**
 
