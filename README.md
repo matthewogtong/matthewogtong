@@ -4,11 +4,12 @@
 
 I am an iOS Developer based in Philadelphia with a background in IT. 
 
-About two and a half years ago, I made the decision to switch career paths and enrolled in Flatiron's Software Engineering Bootcamp. Since graduating, I have eagerly applied my newfound knowledge towards pursuing mobile development, where I quickly developed a passion for building in iOS.
+About two and a half years ago, I made the decision to switch career paths and enrolled in [Flatiron's Software Engineering Bootcamp](https://flatironschool.com/courses/coding-bootcamp/). Since graduating, I have eagerly applied my newfound knowledge towards pursuing mobile development, where I quickly developed a passion for building in iOS. 
 
-My first position as a developer was at Rave, an IT consulting company where I sharpened my skills working on both in-house projects and client-focused solutions. There was my start to gaining in depth knowledge on mobile development. 
-I then was offered a contract role by TIAA as an iOS Developer for their mobile application team.
-My time spent on their agile scrum team for the last year has been an invaluable experience. During my time there we delivered a new feature that spanned the development life cycle; i.e., project initiation, design, development, testing, and deployment. 
+After following many YouTube videos and Udemy courses, I started my career as a developer at [Rave](https://ravebizz.com), an IT consulting company. There, I sharpened my skills by working on both in-house projects and client-focused solutions, and gained in-depth knowledge in the field of mobile development.
+
+I then was offered a contract role by [TIAA](https://apps.apple.com/us/app/tiaa/id341447597) as an iOS Developer for their mobile application team.
+My time spent on their agile scrum team for the last year has been an invaluable experience. During my time there we delivered a new feature that spanned the development life cycle; i.e., project initiation, design, development, testing, and deployment. I really enjoyed working with an in-house framework and building robust SwiftUI atomic components.
 
 Currently, I have been contributing to the open source documentation on [Codecademy Docs](https://github.com/Codecademy/docs) and working on side projects to expand my portfolio. I am eager to take on new challenges and opportunities.
 
