@@ -6,7 +6,7 @@ I am an iOS Developer based in Philadelphia with a background in IT.
 
 About two and a half years ago, I made the decision to switch career paths and enrolled in Flatiron's Software Engineering Bootcamp. Since graduating, I have eagerly applied my newfound knowledge towards pursuing mobile development, where I quickly developed a passion for building and implementing new features in iOS.
 
-My skills were first developed during my time at consulting firm Rave, where I gained valuable experience working on in-house projects and developing solutions for clients. I also recently worked on an agile scrum team during my contract role with TIAA, which has helped me strengthen my ability to collaborate and communicate effectively with team members.
+My skills were first developed during my time at consulting firm called Rave, where I gained valuable experience working on in-house projects and developing solutions for clients. I also recently worked on an agile scrum team during my contract role with TIAA, which has helped me strengthen my ability to collaborate and communicate effectively with team members.
 
 Currently, I enjoy contributing to open source documentation on [Codecademy Docs](https://github.com/Codecademy/docs), and I am constantly motivated to further develop my skills and knowledge in the iOS development field.
 
