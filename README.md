@@ -40,7 +40,7 @@ https://medium.com/@ogtongm
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/matthewogtong" target="blank"><img align="center" src="assets/icons8-linkedin.svg" alt="matthewogtong-linkedin" height="40" width="40" /></a>
-<a href="https://medium.com/@ogtongm" target="blank"><img align="center" src="assets/icons8-medium.svg" alt="@ogtongm" height="40" width="40" /></a>
+<a href="https://medium.com/@ogtongm" target="blank"><img align="center" src="assets/icons8-medium.svg" alt="@ogtongm" height="48" width="48" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
