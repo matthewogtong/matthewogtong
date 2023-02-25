@@ -12,7 +12,7 @@ After following many YouTube videos and Udemy courses, I started my career as a 
 I then was offered a contract role by [TIAA](https://apps.apple.com/us/app/tiaa/id341447597) as an iOS Developer for their mobile application team.
 My time spent on their agile scrum team for the last year has been an invaluable experience. During my time there we delivered a new feature that spanned the development life cycle; i.e., project initiation, design, development, testing, and deployment. I would say I had the most fun working on our in-house framework and building out robust SwiftUI atomic components which we integrated throughout the app. Overall, my experience at TIAA has further solidified my enthusiasm for iOS development and my desire to continuously improve my skills and knowledge in the field.
 
-Right now I am eager to take on new challenges and opportunities.
+Right now I am working on builidng and deploying my first app to the App store and am eager to take on new challenges and opportunities.
 
 <br>
 
@@ -22,6 +22,8 @@ Right now I am eager to take on new challenges and opportunities.
 https://www.coursera.org/professional-certificates/meta-ios-developer 🟩🟩🟩🟩🟩🟩⬛️⬛️⬛️⬛️⬛️⬛️
 
 👨🏻‍💻 Expanding my knowledge on Firebase, Combine, and Coordinator Architecture through [Kodeco](https://www.kodeco.com) and [Udemy](https://www.udemy.com/).
+
+👨🏻‍💻 Personal side project to build and deploy my first app to App store
 
 👨🏻‍💻 Documenting my journey and experiences in iOS development by writing technical blogs on [Medium](https://medium.com), where I share my insights and lessons learned, as well as discuss new technologies, best practices, and case studies in the field
 <br>
