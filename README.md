@@ -10,7 +10,7 @@ About two and a half years ago, I made the decision to switch career paths and e
 After following many YouTube videos and Udemy courses, I started my career as a developer at [Rave](https://ravebizz.com), an IT consulting company. There, I sharpened my skills by working on both in-house projects and client-focused solutions, and gained in-depth knowledge in the field of mobile development.
 
 I then was offered a contract role by [TIAA](https://apps.apple.com/us/app/tiaa/id341447597) as an iOS Developer for their mobile application team.
-My time spent on their agile scrum team for the last year has been an invaluable experience. During my time there we delivered a new feature that spanned the development life cycle; i.e., project initiation, design, development, testing, and deployment. I would say I had the most fun working on our in-house framework and building out robust SwiftUI atomic components that we integrated throughout the app. Overall, my experience at TIAA has further solidified my enthusiasm for iOS development and my desire to continuously improve my skills and knowledge in the field.
+My time spent on their agile scrum team for the last year has been an invaluable experience. During my time there we delivered a new feature that spanned the development life cycle; i.e., project initiation, design, development, testing, and deployment. I would say I had the most fun working on our in-house framework and building out robust SwiftUI atomic components which we integrated throughout the app. Overall, my experience at TIAA has further solidified my enthusiasm for iOS development and my desire to continuously improve my skills and knowledge in the field.
 
 Right now I am eager to take on new challenges and opportunities.
 
