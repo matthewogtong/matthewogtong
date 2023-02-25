@@ -29,7 +29,7 @@ https://medium.com/@ogtongm
 
 👨🏻‍💻 Contributing to open source on [Codecademy Docs](https://github.com/Codecademy/docs) where I write and update documentation focusing on iOS development and SwiftUI.
 
-👨🏻‍💻 Solving Leetcode problems and documenting progress & solutions in my [LeetCode-Swift](https://github.com/matthewogtong/LeetCode-Swift) repository with added Solution Details.<br>
+👨🏻‍💻 Solving Leetcode problems and documenting progress & solutions in a [repository](https://github.com/matthewogtong/LeetCode-Swift) with added Solution Details.<br>
 <br>
 - 💬 Ask me about: **iOS development, working on exciting projects, and asking what's up**
 
