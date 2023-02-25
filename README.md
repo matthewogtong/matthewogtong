@@ -12,7 +12,7 @@ After following many YouTube videos and Udemy courses, I started my career as a 
 I then was offered a contract role by [TIAA](https://apps.apple.com/us/app/tiaa/id341447597) as an iOS Developer for their mobile application team.
 My time spent on their agile scrum team for the last year has been an invaluable experience. During my time there we delivered a new feature that spanned the development life cycle; i.e., project initiation, design, development, testing, and deployment. I would say I had the most fun working on our in-house framework and building out robust SwiftUI atomic components which we integrated throughout the app. Overall, my experience at TIAA has further solidified my enthusiasm for iOS development and my desire to continuously improve my skills and knowledge in the field.
 
-Right now I am working on builidng and deploying my first app to the App store and am eager to take on new challenges and opportunities.
+Right now I am working on building and deploying my first app to the App store and am eager to take on new challenges and opportunities.
 
 <br>
 
