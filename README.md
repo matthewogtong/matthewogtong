@@ -5,9 +5,7 @@
 ## Hello 👋:
 I'm a Developer based in Philadelphia. 
 I am highly enthusiastic about iOS development and committed to continually enhancing my skills and expertise in this field.
-
 <br>
-
 ### Currently I am working on:
 
 👨🏻‍💻 Advanced Programming with Swift, Course 6 of 12 in a Meta iOS Professional Developer Certificate offered through Coursera.
