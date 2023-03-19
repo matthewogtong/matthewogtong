@@ -2,7 +2,7 @@
 
 <br />
 
-## Hello 👋:
+## 👋:
 I'm a Developer based in Philadelphia. 
 I am highly enthusiastic about iOS development and committed to continually enhancing my skills and expertise in this field.
 <br>
@@ -27,7 +27,7 @@ https://medium.com/@ogtongm
 
 - 📫 You can reach me at: **ogtongm@gmail.com**
 
-- 🏓 Outside of work: **I enjoy bouldering and table tennis**
+- 🧗🏓 Outside of work: **I enjoy bouldering and table tennis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
