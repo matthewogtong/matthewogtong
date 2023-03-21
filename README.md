@@ -3,8 +3,8 @@
 <br />
 
 ## 👋:
-I'm a Developer based in Philadelphia. 
-I am highly enthusiastic about iOS development and committed to continually enhancing my skills and expertise in this field.
+I'm an iOS developer based in Philadelphia who's passionate about building with SwiftUI and the endless possibilities it brings.
+Deeply committed to Apple's ecosystem, I am constantly exploring the latest iOS SDKs and features to create cutting-edge, user-friendly apps. I am incredibly excited to continually learn, grow, and adapt my skills and expertise in the dynamic and ever-evolving world of iOS development!
 <br>
 ### Currently I am working on:
 
@@ -32,7 +32,8 @@ https://medium.com/@ogtongm
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/matthewogtong" target="blank"><img align="center" src="assets/icons8-linkedin.svg" alt="matthewogtong-linkedin" height="40" width="40" /></a>
-<a href="https://medium.com/@ogtongm" target="blank"><img align="center" src="assets/icons8-medium.svg" alt="@ogtongm" height="48" width="48" /></a>
+<a href="https://medium.com/@ogtongm" target="blank"><img align="center" src="assets/icons8-medium.svg" alt="@ogtongm" height="50" width="50" /></a>
+<a href="https://dev.to/matthewogtong" target="blank"><img align="center" src="assets/dev-rainbow.png" alt="@ogtongm" height="28" width="28" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
