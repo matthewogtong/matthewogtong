@@ -19,7 +19,7 @@ Dev.to: https://dev.to/matthewogtong
 
 🧗🏓 **When I'm not glued to my devices, I actively enjoy bouldering and table tennis**
 
-💬 Ask me about: **iOS development, working on exciting projects, and asking what's up**
+💬 Talk to me about: **iOS development, working on exciting projects, and asking what's up**
 <br>
 
 <h3 align="left">Connect with me:</h3>
