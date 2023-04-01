@@ -3,11 +3,11 @@
 <br />
 
 ## Hi! 👋 :
-I'm an enthusiastic iOS developer who is deeply invested in Apple's ecosystem. Embracing a growth mindset, I am always eager to learn, adapt, and evolve my skills to continuously hone my craft and contribute to the ever-evolving landscape of iOS development.
+I'm an enthusiastic iOS developer who is deeply invested in Apple's ecosystem. Embracing a growth mindset, I am always eager to learn, adapt, and evolve my skills to continuously hone my craft.
 
-Two years ago, I graduated from [Flatiron's Software Engineering Bootcamp](https://flatironschool.com/courses/coding-bootcamp/) and embarked on an exciting journey in mobile development, with a keen focus on Apple's mobile platform. I find immense satisfaction in working with iOS SDKs, and I'm currently obsessed with mastering [SwiftUI](https://developer.apple.com/xcode/swiftui/) to create intuitive and visually appealing apps. As I continue to diligently pursue my career in this realm, I am dedicated to mastering new skills and staying current with industry advancements.
+Two years ago, I graduated from [Flatiron's Software Engineering Bootcamp](https://flatironschool.com/courses/coding-bootcamp/) and embarked on an exciting journey in mobile development, with a keen focus on Apple's mobile platform. My passion lies in mastering the intricacies of iOS SDKs and their capabilities, and I'm currently obsessed with mastering [SwiftUI](https://developer.apple.com/xcode/swiftui/) to create intuitive and visually appealing apps. As I continue to diligently pursue my career in this realm, I am dedicated to honing new skills and staying current with industry advancements.
 
-As part of my ongoing commitment to the dynamic world of iOS Development, I share my experiences, insights, and discoveries through content on various online platforms. I am an active contributor to [Codecademy Docs](https://github.com/Codecademy/docs) and always on the lookout for projects I may collaborate on. Feel free to explore my articles, engage with my content, and connect with me across these platforms.
+As part of my ongoing journey, I share my experiences, insights, and discoveries through content on various online platforms. I am an active contributor to [Codecademy Docs](https://github.com/Codecademy/docs) and always on the lookout for projects I may collaborate on. Feel free to explore my articles, engage with my content, and connect with me across these platforms.
 
 Github: https://github.com/matthewogtong
 </br>
@@ -17,7 +17,7 @@ Dev.to: https://dev.to/matthewogtong
 
 🕊️**Open to collaborations and discussions focused on SwiftUI development and open-source contributions**
 
-🧗🏓 **When I'm not immersed in the world of iOS, I actively enjoy bouldering and table tennis**
+🧗🏓 **When I'm not glued to my devices, I actively enjoy bouldering and table tennis**
 
 💬 Ask me about: **iOS development, working on exciting projects, and asking what's up**
 <br>
