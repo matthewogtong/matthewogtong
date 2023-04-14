@@ -3,11 +3,11 @@
 <br />
 
 ## Hi! 👋 :
-I'm an enthusiastic iOS developer who is deeply invested in Apple's ecosystem. Embracing a growth mindset, I am always eager to learn, adapt, and evolve my skills to continuously hone my craft.
+I'm an enthusiastic iOS developer who is deeply invested in Apple's ecosystem. Embracing a growth mindset, I am always eager to learn, adapt, and evolve.
 
 Two years ago, I graduated from [Flatiron's Software Engineering Bootcamp](https://flatironschool.com/courses/coding-bootcamp/) and embarked on an exciting journey in mobile development, with a keen focus on Apple's mobile platform. My passion lies in mastering the intricacies of iOS SDKs and their capabilities, and I'm currently obsessed with mastering [SwiftUI](https://developer.apple.com/xcode/swiftui/) to create intuitive and visually appealing apps. As I continue to diligently pursue my career in this realm, I am dedicated to honing new skills and staying current with industry advancements.
 
-As part of my ongoing journey, I share my experiences, insights, and discoveries through content on various online platforms. I am an active contributor to [Codecademy Docs](https://github.com/Codecademy/docs) and Content Writer on [Medium](https://medium.com/@ogtongm) and [Dev.to](https://dev.to/matthewogtong).
+As part of my ongoing journey, I share my experiences, insights, and discoveries through being an active contributor to [Codecademy Docs](https://github.com/Codecademy/docs) and Content Writer on [Medium](https://medium.com/@ogtongm) and [Dev.to](https://dev.to/matthewogtong).
 
 Github: https://github.com/matthewogtong
 </br>
