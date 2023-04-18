@@ -49,5 +49,3 @@ Dev.to: https://dev.to/matthewogtong
 </p>
 
 <a target="_blank"></a>Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matthewogtong&theme=dark" alt="matthewogtong" /></p>
