@@ -1,25 +1,9 @@
-<p align="center"><a><img width="50%" alt="Hello, I'm Matt. I do iOS Development" src="./assets/readme-header.png" /></a></p>
-
-<br />
-
 ## Hi! 👋 :
-I'm an enthusiastic iOS developer who is deeply invested in Apple's ecosystem. Embracing a growth mindset, I am always eager to learn, adapt, and evolve.
+As a dedicated iOS developer, I specialize in Apple's ecosystem, building intuitive and visually appealing apps. I like to stay current with industry trends and occasionally share my insights and experiences writing articles.
 
-Two years ago, I graduated from [Flatiron's Software Engineering Bootcamp](https://flatironschool.com/courses/coding-bootcamp/) and embarked on an exciting journey in mobile development, with a keen focus on Apple's mobile platform. My passion lies in mastering the intricacies of iOS SDKs and their capabilities, and I'm currently obsessed with mastering [SwiftUI](https://developer.apple.com/xcode/swiftui/) to create intuitive and visually appealing apps. I am dedicated to honing new skills and staying current with industry advancements.
+🕊️**Eager to collaborate and discuss on iOSDevelopment**
 
-As part of my ongoing journey, I share my experiences, insights, and discoveries through being an active contributor to [Codecademy Docs](https://github.com/Codecademy/docs) and Content Writer on [Medium](https://medium.com/@ogtongm) and [Dev.to](https://dev.to/matthewogtong).
-
-Github: https://github.com/matthewogtong
-</br>
-Medium: https://medium.com/@ogtongm
-</br>
-Dev.to: https://dev.to/matthewogtong
-
-🕊️**Open to collaborations and discussions focused on SwiftUI development and open-source contributions**
-
-🧗🏓 **When I'm not glued to my devices, I actively enjoy bouldering and table tennis**
-
-💬 Talk to me about: **iOS development, working on exciting projects, and asking what's up**
+🧗🏓 **In my free time, I enjoy bouldering and playing ping pong**
 <br>
 
 <h3 align="left">Connect with me:</h3>
@@ -47,5 +31,4 @@ Dev.to: https://dev.to/matthewogtong
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="assets/icons8-jenkins.svg" alt="jenkins" width="40" height="40"/> </a>
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="assets/icons8-heroku.svg" alt="heroku" width="40" height="40"/> </a>
 </p>
-
-<a target="_blank"></a>Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
+<!-- <a target="_blank"></a>Icons by <a target="_blank" href="https://icons8.com">Icons8</a> -->
