@@ -1,9 +1,9 @@
 ## Hi! 👋 :
-As a dedicated iOS developer, I specialize in Apple's ecosystem, building intuitive and visually appealing apps. I like to stay current with industry trends and occasionally share my insights and experiences writing articles.
+As a dedicated iOS developer, I specialize in Apple's ecosystem, building robust and intuitive apps. I like to stay current with industry trends and occasionally share my insights and experiences writing articles.
 
-🕊️**Eager to collaborate and discuss on iOSDevelopment**
+🕊️**Eager to collaborate and discuss on iOS Development**
 
-🧗🏓 **In my free time, I enjoy bouldering and playing ping pong**
+🧗🏓 **In my free time, I enjoy bouldering and ping pong**
 <br>
 
 <h3 align="left">Connect with me:</h3>
